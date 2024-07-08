@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
-//                                    IBRAHIM TECH BEST TECH EVER
+//                              VINOR KILLER MD ..., MADE BY VAN VINOR
+//                                    VINOR TECH BEST TECH EVER
 //
 //════════════════════════════//
 
